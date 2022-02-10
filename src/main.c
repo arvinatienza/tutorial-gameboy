@@ -2,5 +2,8 @@
 #include <stdio.h>
 
 void main() {
-  printf("HELLO WORLD");
+  printf("HELLO\n");
+  printf("ASA\n");
+  printf("NOA\n");
+  printf("IRA");
 }
